@@ -16,8 +16,7 @@ const nextConfig = {
     unoptimized: true,
   },
 
-  // output: "standalone",
-  output: "export",
+  output: "standalone",
 
   eslint: {
     // Warning: This allows production builds to successfully complete even if
